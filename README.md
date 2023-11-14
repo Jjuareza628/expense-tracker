@@ -41,3 +41,7 @@ Two individuals from Kennesaw, GA each wihth unique backgrounds in finance and m
 
 #Task List 
 Aziz and Janet will both be responsible for making small updates and adding commit messages in our respsitory. 
+
+#Objective 
+
+This project provides the fundamental framework for gathering an overview of a user's daily expenses. Even while it might not have all the features of a professional cost monitoring program, it nonetheless aids users in starting the process of developing a better understanding of their everyday spending habits.
